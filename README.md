@@ -1,6 +1,5 @@
-# Macchanger - Python Script
+# Macchanger
 
-## Descripción
 Este script permite cambiar la dirección MAC de una interfaz de red en sistemas basados en Unix utilizando el comando `ifconfig`. Puede ser útil para pruebas de seguridad, privacidad o pruebas de red.
 
 ## Requisitos
