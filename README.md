@@ -35,10 +35,6 @@ sudo ./macchanger.py -i eth0 -m 00:11:22:33:44:55
 ```
 [!] Saliendo...
 ```
-
-## Advertencia
-El cambio de dirección MAC es temporal y se restablecerá al reiniciar la interfaz o el sistema.
-
 ## Nota
 Este script solo funciona en sistemas Unix y requiere permisos de root.
 
